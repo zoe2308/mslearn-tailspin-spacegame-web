@@ -55,4 +55,3 @@ steps:
   displayName: 'Publish Artifact: drop'
   condition: succeeded()
 
-  # Publish the build artifacts
